@@ -1,0 +1,75 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "productList": [
+    {
+      "productName": "Prod 1 Update",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 1022,
+      "comment": "Hi this is fruits Updated",
+      "date": "2022-02-26T19:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "product 2",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 22,
+      "comment": "this is vegetables",
+      "date": "2022-02-23T19:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "New Data",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 9,
+      "comment": "This is new page Data",
+      "date": "2022-02-21T19:00:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "dfdfd",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 2,
+      "comment": "sfsdfsdf",
+      "date": "2022-02-08T19:00:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "Second Last u",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 33,
+      "comment": "Hello This is Second Last",
+      "date": "2022-02-24T19:00:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "Last Product",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 8888,
+      "comment": "My Name is Khan",
+      "date": "2022-02-27T19:00:00.000Z",
+      "id": 10
+    }
+  ]
+}
